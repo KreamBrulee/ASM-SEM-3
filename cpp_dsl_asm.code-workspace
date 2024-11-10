@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../cpp dsl"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
